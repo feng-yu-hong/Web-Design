@@ -11,4 +11,4 @@
 
 # 联系我们界面
 ![image](https://github.com/feng-yu-hong/Web-Design/blob/master/PC%20Web%20Page/img/5.PNG)
-![image](https://github.com/feng-yu-hong/Web-Design/blob/master/PC%20Web%20Page/img/6.PNG)
+![image](https://github.com/feng-yu-hong/Web-Design/blob/master/PC%20Web%20Page/img/6.png)
